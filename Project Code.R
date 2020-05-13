@@ -1,7 +1,5 @@
 
 #Predicting Airbnb High Booking Rates 
-#Project Group 5: Akshay Havalgi, Austin Hom, Bekzod Akramov, Shashank Rao, Vivek Ramanathan
-
 #==========================================================================================
 #load necessary libraries
 
