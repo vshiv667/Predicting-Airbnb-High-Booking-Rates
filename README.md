@@ -43,6 +43,12 @@ Our XGBoost model helps determine whether the host’s listings are predicted to
 
 From the perspective of Airbnb, it helps them get an idea of how their listings are affected given the various features and what demand may look like for certain types of listings, which they can use to target the listings that are not popular by promotion.
 
+**Leader Board**
+<p align="center">
+  <img  height="500" src="/InkedLeaderboard_LI.jpg">
+</p>
+Finished 2nd among 21 competing groups with 84.47% accuracy
+
 ## Libraries:
 R: dplyr, tidyr, ggplot2
 
